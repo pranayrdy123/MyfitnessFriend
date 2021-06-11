@@ -3,7 +3,7 @@ Fitness Tracker
 
 Simple Fitness Tracker web application using Java, Spring MVC, Spring Security, JPA, Hibernate, Maven. Tested in Eclipse IDE, Linux and Mac. 
 
-Base Project: https://github.com/bh5k/spring_mvc_base
+
 
 ## Setup ##
 
